@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @imthetuba
+- 👀 I’m interested in learning new things and creating useful programs!
+- 🌱 I’m currently learning c++ and working on a bachelor in computer science (first year)
